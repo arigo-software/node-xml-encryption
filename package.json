@@ -1,12 +1,12 @@
 {
   "name": "xml-encryption",
-  "version": "0.9.0",
+  "version": "0.9.0-2",
   "devDependencies": {
     "mocha": "*",
     "should": "~1.2.2"
   },
   "main": "./lib",
-  "repository": "https://github.com/auth0/node-xml-encryption",
+  "repository": "https://github.com/arigo-software/node-xml-encryption",
   "keywords": [
     "xml",
     "encryption",
@@ -15,7 +15,8 @@
   "author": "Matias Woloski (Auth0)",
   "contributors": [
     "Jose F. Romaniello <jfromaniello@gmail.com> (http://joseoncode.com)",
-    "Tommi Pisto <tommi@pistogroup.com> (http://pasm.pis.to)"
+    "Tommi Pisto <tommi@pistogroup.com> (http://pasm.pis.to)",
+    "Martin Luemkemann <mluemkemann@arigo-software.de>"
   ],
   "license": "MIT",
   "dependencies": {
